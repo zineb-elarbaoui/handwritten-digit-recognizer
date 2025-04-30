@@ -17,9 +17,6 @@ Python 3.8+
 OpenCV
 
 NumPy
-
-[Add anything else you used, e.g., matplotlib, pickle...]
-
 📸 Screenshots (optional)
 
 Include an image or gif of the app running.
